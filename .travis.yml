@@ -3,6 +3,7 @@ android:
   components:
   - tools
   - platform tools
+  - tools
   
   # The build tools version for the project
   - build-tools-26.1.1
