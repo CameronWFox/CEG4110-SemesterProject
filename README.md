@@ -13,6 +13,7 @@ The interaction with the application is easily done through the use of a navigat
 connect to shown on screen. 
 
 Detailed Instructions on how to Use the Application Below:
+
 Step 1;
 
 Step 2;
