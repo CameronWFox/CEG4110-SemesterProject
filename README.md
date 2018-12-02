@@ -15,12 +15,34 @@ connect to shown on screen.
 Detailed Instructions on how to Use the Application Below:
 
 Step 1;
+Read over the instructions shown to you when you first open the application As Show in Figure 1.0
 
 Step 2;
+When you have finished reading over the instructions, please press the button at the top center of the app screen in Figure 1.1
 
 Step 3;
+After pressing the button you will be taken to a new activity screen, in the top left corner press the button you see.
+This is shown in Figure 2.0
 
 Step 4;
+When you press the button a list of options will come up for you to choose. 
+If you press out of the option box, basically anywhere else on the screen the menu will close and you will be back at Figure 2.0
 
 Step 5;
+When you press the top left icon again to open the menu and press on the lsited options they will take you to the 
+different views such as the top choice being the camera at the top. This opens the camera on your phone. See Figure 3.0
+
+Step 6; 
+
+
+Step 7;
+
+
+Step 8;
+
+
+Step 9;
+
+
+Step 10;
 
