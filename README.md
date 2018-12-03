@@ -15,18 +15,26 @@ connect to shown on screen.
 Detailed Instructions on how to Use the Application Below:
 
 Step 1;
-Read over the instructions shown to you when you first open the application As Show in Figure 1.0
+Allow this app to have access to your photos and media on the device As Seen in Figure 1.0
+![screenshot1](https://user-images.githubusercontent.com/33787330/49404140-72ee9100-f703-11e8-9824-08439111d891.PNG)
 
 Step 2;
+Read over the instructions shown to you when you first open the application As Show in Figure 1.1
+![screenshot2](https://user-images.githubusercontent.com/33787330/49404232-bc3ee080-f703-11e8-9ebb-71c255869465.PNG)
+
+Step 3;
 When you have finished reading over the instructions, please press the button at the top center of the app screen in Figure 1.1
+![screenshot2](https://user-images.githubusercontent.com/33787330/49404232-bc3ee080-f703-11e8-9ebb-71c255869465.PNG)
 
 Step 3;
 After pressing the button you will be taken to a new activity screen, in the top left corner press the button you see.
 This is shown in Figure 2.0
+![screenshot3](https://user-images.githubusercontent.com/33787330/49404325-ff00b880-f703-11e8-8264-92d23a91c651.PNG)
 
 Step 4;
 When you press the button a list of options will come up for you to choose. 
 If you press out of the option box, basically anywhere else on the screen the menu will close and you will be back at Figure 2.0
+![screenshot4](https://user-images.githubusercontent.com/33787330/49404345-0c1da780-f704-11e8-81a5-24cfab7661d2.PNG)
 
 Step 5;
 When you press the top left icon again to open the menu and press on the lsited options they will take you to the 
