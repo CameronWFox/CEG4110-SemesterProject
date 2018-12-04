@@ -60,4 +60,4 @@ The last option is crop, this will let you choose a picture you have taken and s
 
 
 
-This is the full extent of our application and the functionality that it offers. With the user friendly navigation drawer that allows the user to easily change between views the ap offers. 
+This is the full extent of our application and the functionality that it offers. With the user friendly navigation drawer that allows the user to easily change between views the app offers. 
