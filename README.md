@@ -40,10 +40,15 @@ If you press out of the option box, basically anywhere else on the screen the me
 
 Step 5;
 When you press the top left icon again to open the menu and press on the lsited options they will take you to the
-different views such as the top choice being the camera at the top. This opens the camera on your phone. See Figure 3.0
+different views such as the top choice being the camera at the top. First you must allow the application to have access to your phone.
+See Figure 3.0
+
+![screenshot5](https://user-images.githubusercontent.com/33787330/49410916-b5bc6300-f71b-11e8-871f-6326109a757c.PNG)
 
 Step 6;
+By pressing the X icon in the top left corner of the screen this will exit the camera view and take you back to the navigation view in Figure 2.0
 
+![screenshot3](https://user-images.githubusercontent.com/33787330/49404325-ff00b880-f703-11e8-8264-92d23a91c651.PNG)
 
 Step 7;
 
