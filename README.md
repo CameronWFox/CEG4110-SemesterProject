@@ -9,8 +9,8 @@ The application will be able to do the following:
 4. Remove the picture currently taken if the user wants to retake the picture
 5. Recieve results from the server after sending the picture to see how much the picture resembles food
 
-The interaction with the application is easily done through the use of a navigation drawer, with all the different views to 
-connect to shown on screen. 
+The interaction with the application is easily done through the use of a navigation drawer, with all the different views to
+connect to shown on screen.
 
 Detailed Instructions on how to Use the Application Below:
 
@@ -23,24 +23,26 @@ Read over the instructions shown to you when you first open the application As S
 ![screenshot2](https://user-images.githubusercontent.com/33787330/49404232-bc3ee080-f703-11e8-9ebb-71c255869465.PNG)
 
 Step 3;
-When you have finished reading over the instructions, please press the button at the top center of the app screen in Figure 1.1
+When you have finished reading over the instructions, please press the button at the top center of the app screen in Figure 1.1:
+
 ![screenshot2](https://user-images.githubusercontent.com/33787330/49404232-bc3ee080-f703-11e8-9ebb-71c255869465.PNG)
 
 Step 3;
 After pressing the button you will be taken to a new activity screen, in the top left corner press the button you see.
-This is shown in Figure 2.0
+This is shown in Figure 2.0:
+
 ![screenshot3](https://user-images.githubusercontent.com/33787330/49404325-ff00b880-f703-11e8-8264-92d23a91c651.PNG)
 
 Step 4;
-When you press the button a list of options will come up for you to choose. 
+When you press the button a list of options will come up for you to choose.
 If you press out of the option box, basically anywhere else on the screen the menu will close and you will be back at Figure 2.0
 ![screenshot4](https://user-images.githubusercontent.com/33787330/49404345-0c1da780-f704-11e8-81a5-24cfab7661d2.PNG)
 
 Step 5;
-When you press the top left icon again to open the menu and press on the lsited options they will take you to the 
+When you press the top left icon again to open the menu and press on the lsited options they will take you to the
 different views such as the top choice being the camera at the top. This opens the camera on your phone. See Figure 3.0
 
-Step 6; 
+Step 6;
 
 
 Step 7;
@@ -53,4 +55,5 @@ Step 9;
 
 
 Step 10;
+
 
