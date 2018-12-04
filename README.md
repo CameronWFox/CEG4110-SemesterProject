@@ -53,11 +53,12 @@ By pressing the X icon in the top left corner of the screen this will exit the c
 Step 7;
 When you open the menu and entering the gallery you can choose a picture that you hav etaken in  the past to test what the server says. The gallery is observed as shown in Figure 4.0
 
-
+![screenshot6](https://user-images.githubusercontent.com/33787330/49465073-81938180-f7b1-11e8-993e-32fb2352b655.PNG)
 
 Step 8;
-The last option is crop, this will let you choose a picture you have taken and shape the image up then send it off to the server. This is shown in Figure 5.0
+The last option is crop, this will let you choose a picture you have taken and shape the image up then send it off to the server. This is shown in Figure 4.0 Both take photos from teh gallery so they will apear the same. 
 
-
+![screenshot6](https://user-images.githubusercontent.com/33787330/49465073-81938180-f7b1-11e8-993e-32fb2352b655.PNG)
 
 This is the full extent of our application and the functionality that it offers. With the user friendly navigation drawer that allows the user to easily change between views the app offers. 
+
